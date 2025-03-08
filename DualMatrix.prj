@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="2807593260" file="C:\Users\student.AUGH\Documents\MATLAB\HarshRaoBscMaths\MyFirstApp\DualMatrix.prj" location="C:\Users\student.AUGH\Documents\MATLAB\HarshRaoBscMaths\MyFirstApp" name="DualMatrix" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="2807593260" file="F:\MyMatlabStuff\Matlab\DualMatrix.prj" location="F:\MyMatlabStuff\Matlab" name="DualMatrix" target="target.mlapps" target-name="Package App">
     <param.appname>DualMatrix</param.appname>
     <param.authnamewatermark />
     <param.email />
@@ -8,13 +8,13 @@
     <param.icons />
     <param.summary />
     <param.description />
-    <param.screenshot>C:\Users\student.AUGH\AppData\Local\Temp\tpb2e34e72_fe07_4014_bf35_63b03de75d73.png</param.screenshot>
+    <param.screenshot />
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
     <param.platforms />
-    <param.output>C:\Users\student.AUGH\Downloads\HarshBScMaths\ThirdApp</param.output>
+    <param.output>C:\Users</param.output>
     <param.guid>2b26c261-6395-4cea-8d13-ad56851dd8e6</param.guid>
     <unset>
       <param.authnamewatermark />
@@ -24,6 +24,7 @@
       <param.icons />
       <param.summary />
       <param.description />
+      <param.screenshot />
       <param.version />
       <param.products.name />
       <param.products.id />
@@ -39,11 +40,11 @@
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
-      <file location="C:\Users\student.AUGH\Downloads\HarshBScMaths" name="ThirdApp" optional="false">C:\Users\student.AUGH\Downloads\HarshBScMaths\ThirdApp</file>
+      <file location="C:\" name="Users" optional="false">C:\Users</file>
     </build-deliverables>
     <workflow />
     <matlab>
-      <root>C:\Program Files\MATLAB\R2023a</root>
+      <root>F:\MatLab</root>
       <toolboxes>
         <toolbox name="matlabcoder" />
         <toolbox name="embeddedcoder" />
